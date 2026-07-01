@@ -23,3 +23,11 @@ This project performs an Exploratory Data Analysis (EDA) on the official, open-s
 ## 🧼 Data Cleaning Approach
 Historical cultural datasets are notoriously incomplete. In this analysis, the `yearOfBirth` column contained non-numeric strings and missing entries. 
 - Utilized `pd.to_numeric(..., errors='coerce')` to safely transform valid historical years into integers while handling missing values without breaking the execution pipeline.
+
+## 📊 Key Insights & Geographic Distribution
+
+Using Matplotlib to plot the top artist birthplaces revealed strong institutional biases and archival quirks:
+
+* **Imperial Center Dominance:** London, United Kingdom is the overwhelming primary source of artists in the collection, exceeding 400 entries. 
+* **Global Art Hubs:** Paris, France (No. 2) and New York, United States (No. 4) are the prominent international cities breaking into the top five, reflecting historic transatlantic art trade routes.
+* **Granularity Inconsistency:** The dataset contains structural inconsistencies, treating specific municipal data (e.g., *Manchester*) interchangeably with broad regional data (e.g., *England, United Kingdom*).
