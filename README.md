@@ -39,3 +39,11 @@ A distribution analysis of artist birth cohorts reveals a heavy institutional pi
 * **The 20th-Century Peak:** The collection's core volume is heavily anchored by artists born between **1920 and 1940**, showcasing a major institutional commitment to post-war modern art.
 * **The Contemporary Horizon Gap:** A steep decline is observed for artist birth years post-1980, reflecting the natural lag time required for emerging contemporary artists to be institutionalized into national museum collections.
 * **The Historical Anchor:** The chronological outlier analysis identifies **Hans Holbein the Younger (b. 1489)** as the earliest recorded artist in the dataset, establishing a historical timeline span of over 500 years.
+
+## 👥 Institutional Diversity & Gender Demographics
+
+An evaluation of gender distribution across the entire historical roster highlights structural archival imbalances:
+
+* **Historical Imbalance:** The roster exhibits a significant representation gap, with **82.0% of indexed artists identifying as Male** and **14.8% identifying as Female**.
+* **Archival Exclusions:** This stark variance directly correlates with the historical timeline of the collection, reflecting centuries of systemic exclusions of women from classical European art academies.
+* **Data Ambiguity:** The remaining **3.3% constitutes Unknown/Unlisted records**, representing collective workshops, anonymous contributors, or un-audited historical acquisitions.
