@@ -31,3 +31,11 @@ Using Matplotlib to plot the top artist birthplaces revealed strong institutiona
 * **Imperial Center Dominance:** London, United Kingdom is the overwhelming primary source of artists in the collection, exceeding 400 entries. 
 * **Global Art Hubs:** Paris, France (No. 2) and New York, United States (No. 4) are the prominent international cities breaking into the top five, reflecting historic transatlantic art trade routes.
 * **Granularity Inconsistency:** The dataset contains structural inconsistencies, treating specific municipal data (e.g., *Manchester*) interchangeably with broad regional data (e.g., *England, United Kingdom*).
+
+## 📅 Chronological Trajectory & Historical Outliers
+
+A distribution analysis of artist birth cohorts reveals a heavy institutional pivot toward modernism:
+
+* **The 20th-Century Peak:** The collection's core volume is heavily anchored by artists born between **1920 and 1940**, showcasing a major institutional commitment to post-war modern art.
+* **The Contemporary Horizon Gap:** A steep decline is observed for artist birth years post-1980, reflecting the natural lag time required for emerging contemporary artists to be institutionalized into national museum collections.
+* **The Historical Anchor:** The chronological outlier analysis identifies **Hans Holbein the Younger (b. 1489)** as the earliest recorded artist in the dataset, establishing a historical timeline span of over 500 years.
