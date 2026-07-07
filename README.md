@@ -47,3 +47,11 @@ An evaluation of gender distribution across the entire historical roster highlig
 * **Historical Imbalance:** The roster exhibits a significant representation gap, with **82.0% of indexed artists identifying as Male** and **14.8% identifying as Female**.
 * **Archival Exclusions:** This stark variance directly correlates with the historical timeline of the collection, reflecting centuries of systemic exclusions of women from classical European art academies.
 * **Data Ambiguity:** The remaining **3.3% constitutes Unknown/Unlisted records**, representing collective workshops, anonymous contributors, or un-audited historical acquisitions.
+
+## 🎨 Collection Output & Archival Text Analysis
+
+A deep dive into the 69,201 artwork records uncovered how the museum logs creative production:
+
+* **Workshop Dynamics:** The structural role breakdown (`artistRole`) highlights individual versus studio production, capturing **66,907 primary artist works** alongside **2,014 pieces categorized as "after"** a master's original framework.
+* **Metadata Scarcity:** Textual inscriptions are a rare curatorial luxury, present in only **9.1% (6,306 entries)** of the collection due to the immense manual labor required for text cataloging.
+* **Curation Invariance:** String pattern matching across all valid inscriptions returned a **100% density match for chronological date indicators** and a baseline of 0 explicit "signature" string variations, proving the Tate uses a standardized framework prioritizing temporal tracking over prose descriptions.
